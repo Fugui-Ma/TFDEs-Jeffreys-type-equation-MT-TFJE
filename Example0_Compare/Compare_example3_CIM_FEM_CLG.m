@@ -1,5 +1,4 @@
-function plot_example3_CIM_FEM_CLG_onecase_t05()
-function Run_Jeffreys2D_KJ2_ST_order()
+function plot_example3_CIM_FEM_CLG_onecase_t025()
 %**************************************************************************
 %**    Program： By using the CIM-CGLand CIM-FEM method to solve the 2D Case :
 %                with zero Dirichlet bundary condition
